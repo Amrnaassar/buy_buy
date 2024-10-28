@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784519326551",
+    "project_id": "buy-buy-c8a5c",
+    "storage_bucket": "buy-buy-c8a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784519326551:android:073d9c35f4ed465ecfec12",
+        "android_client_info": {
+          "package_name": "com.example.buy_buy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwh3dIV8Q4ImpqdeSh5WHhCXI8OpApTOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
